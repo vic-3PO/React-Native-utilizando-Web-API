@@ -4,8 +4,8 @@ Esse é um projeto de curso que tem como objetivo ensinar como configurar e util
 
 <img alt="app" title="app" src=".images/telas.png" width="100%" />
 
-1.O que é uma Web API e por que utilizar:
-    -Uma Web API é um serviço que conecta um aplicativo a um banco de dados, permitindo fazer requisições para ler, criar, editar e apagar informações.
+- O que é uma Web API e por que utilizar:
+    - Uma Web API é um serviço que conecta um aplicativo a um banco de dados, permitindo fazer requisições para ler, criar, editar e apagar informações.
 
 2.O que é uma Fake API e por que utilizar:
     -Uma Fake API é uma forma utilizada para simular uma Web API real. A grande diferença é que as informações são salvas localmente e as rotas de requisições já são pré-definidas, como o GET, POST, PUT, DELETE e entre outras. Existem maneiras diferentes de fazer uma Fake API e uma delas é usar a biblioteca json-server. Uma Fake API agiliza o processo de simular uma aplicação com uma Web API, facilitando os testes iniciais da criação de um App.
