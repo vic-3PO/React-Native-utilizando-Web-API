@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "login": "Kenobi1",
+      "id": 1,
+      "avatar_url": "https://static.wikia.nocookie.net/ptstarwars/images/9/94/Obi-wan_headshot.jpg/revision/latest?cb=20100112130445",
+      "name": "Obi-Wan Kenobi",
+      "email": "Obi@RepublicaGalacticamail.com",
+      "followers": 43,
+      "following": 54
+    },
+    {
+      "login": "Tano",
+      "id": 2,
+      "avatar_url": "https://static.wikia.nocookie.net/ptstarwars/images/d/de/Ahsoka_Tano_TMS2.jpg/revision/latest/scale-to-width-down/350?cb=20201127162047",
+      "name": "Ahsoka Tano",
+      "email": "AhsTano@RepublicaGalacticamail.com",
+      "followers": 51,
+      "following": 7
+    }
+  ],
+  "repos": [
+    {
+      "name": "204222228evolutioneee",
+      "data": "1 de jan. de 2021",
+      "postId": 2,
+      "id": 0
+    },
+    {
+      "id": 1,
+      "name": "api-teste",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "name": "api-escolas",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 3,
+      "name": "Arduino_AVES_Telemetria",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 4,
+      "name": "bot_piano_tiles",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    },
+    {
+      "id": 1,
+      "name": "204222228evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 2,
+      "name": "2048evolution",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 4,
+      "name": "alura-pikachu",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 5,
+      "name": "alura-react-native-comecando-do-zero",
+      "data": "1 de jan. de 2021",
+      "postId": 2
+    },
+    {
+      "id": 5,
+      "name": "Alura_cursos",
+      "data": "1 de jan. de 2021",
+      "postId": 1
+    }
+  ]
+}
