@@ -20,7 +20,7 @@ Esse é um projeto de curso que tem como objetivo ensinar como configurar e util
     - Aprendemos a instalar o Axios e configurá-lo no projeto. Além disso, entendemos o porquê de usar o Axios ao invés do Fetch.
 
 - Como fazer uma requisição GET:
-    -Fizemos a primeira requisição do CRUD, chamada GET, para buscar todas as informações com a Web API.
+    - Fizemos a primeira requisição do CRUD, chamada GET, para buscar todas as informações com a Web API.
 
 - Como fazer requisições GET:
     - Fizemos duas requisições do tipo GET para nossa Web API, uma para buscar um usuário e outra para buscar os repositórios de um usuário.
